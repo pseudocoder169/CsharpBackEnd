@@ -10,6 +10,7 @@ namespace DbConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello!");
         }
     }
 }
